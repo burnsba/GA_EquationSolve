@@ -1,0 +1,8 @@
+# Simple Genetic Algorithm equation solver
+
+Expected outputs are created from input varaibles, then the simulation attempts to recreate some set of equations to produce the output.
+
+Todo:
+
+- split classes into files
+- add comments
